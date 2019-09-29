@@ -1,0 +1,63 @@
+.App {
+  position: relative;
+  background: transparent url('../src/assets/img/Layer1.png') no-repeat center
+    center fixed padding-box;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  /* max-height: 100vh;
+  max-width: 100vw; */
+
+  top: -2765px;
+  left: -20px;
+  width: 1972px;
+  height: 4493px;
+}
+
+.background {
+  overflow: hidden;
+  top: -2465px;
+  left: -422px;
+  width: 3474px;
+  height: 3493px;
+  background: transparent url('../src/assets/img/Rectangle1.png') no-repeat 00%
+    00% padding-box;
+  opacity: 1;
+}
+
+.headers {
+  position: relative;
+  top: -715px;
+  padding-left: 92px;
+  z-index: 100;
+  width: 100%;
+}
+
+.title-container {
+  overflow: hidden;
+  position: relative;
+  top: -650px;
+  left: -300px;
+  color: white;
+}
+
+.box-container {
+  overflow: hidden;
+  position: relative;
+  top: -620px;
+  left: -300px;
+  height: 719px;
+  width: 1207px;
+
+  align-items: center;
+  /* background-color: '#f5f5f5'; */
+  background: transparent url('../src/assets/img/Rectangle3.png') 0% 0%
+    no-repeat padding-box;
+  box-shadow: 0px 2px 1px #00000019;
+  opacity: 1;
+}
+
+h3 {
+  font-family: SemiBold 46px/62px Montserrat;
+}
