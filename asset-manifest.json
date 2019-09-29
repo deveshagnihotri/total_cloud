@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/totalCloud_Assignment/static/css/main.692a0924.chunk.css",
-    "main.js": "/totalCloud_Assignment/static/js/main.bdaa9e8d.chunk.js",
-    "main.js.map": "/totalCloud_Assignment/static/js/main.bdaa9e8d.chunk.js.map",
-    "runtime-main.js": "/totalCloud_Assignment/static/js/runtime-main.eda57a4b.js",
-    "runtime-main.js.map": "/totalCloud_Assignment/static/js/runtime-main.eda57a4b.js.map",
-    "static/css/2.28e23568.chunk.css": "/totalCloud_Assignment/static/css/2.28e23568.chunk.css",
-    "static/js/2.70b13664.chunk.js": "/totalCloud_Assignment/static/js/2.70b13664.chunk.js",
-    "static/js/2.70b13664.chunk.js.map": "/totalCloud_Assignment/static/js/2.70b13664.chunk.js.map",
-    "index.html": "/totalCloud_Assignment/index.html",
-    "precache-manifest.eedc66a6c069af56f9803b2057c05834.js": "/totalCloud_Assignment/precache-manifest.eedc66a6c069af56f9803b2057c05834.js",
-    "service-worker.js": "/totalCloud_Assignment/service-worker.js",
-    "static/css/2.28e23568.chunk.css.map": "/totalCloud_Assignment/static/css/2.28e23568.chunk.css.map",
-    "static/css/main.692a0924.chunk.css.map": "/totalCloud_Assignment/static/css/main.692a0924.chunk.css.map",
-    "static/media/App.css": "/totalCloud_Assignment/static/media/Rectangle3.c3f9f770.png"
+    "main.css": "/total_cloud/static/css/main.c53002ba.chunk.css",
+    "main.js": "/total_cloud/static/js/main.d79fff66.chunk.js",
+    "main.js.map": "/total_cloud/static/js/main.d79fff66.chunk.js.map",
+    "runtime-main.js": "/total_cloud/static/js/runtime-main.f0f133d2.js",
+    "runtime-main.js.map": "/total_cloud/static/js/runtime-main.f0f133d2.js.map",
+    "static/css/2.28e23568.chunk.css": "/total_cloud/static/css/2.28e23568.chunk.css",
+    "static/js/2.a3e8a10b.chunk.js": "/total_cloud/static/js/2.a3e8a10b.chunk.js",
+    "static/js/2.a3e8a10b.chunk.js.map": "/total_cloud/static/js/2.a3e8a10b.chunk.js.map",
+    "index.html": "/total_cloud/index.html",
+    "precache-manifest.374865cc1d60efd512d9e26f1d7d73e7.js": "/total_cloud/precache-manifest.374865cc1d60efd512d9e26f1d7d73e7.js",
+    "service-worker.js": "/total_cloud/service-worker.js",
+    "static/css/2.28e23568.chunk.css.map": "/total_cloud/static/css/2.28e23568.chunk.css.map",
+    "static/css/main.c53002ba.chunk.css.map": "/total_cloud/static/css/main.c53002ba.chunk.css.map",
+    "static/media/App.css": "/total_cloud/static/media/Rectangle3.c3f9f770.png"
   }
 }
